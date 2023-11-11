@@ -53,6 +53,7 @@ You can install the required Python packages using `pip`. For more detailed info
    
 ## Usage
 To run the application, execute the following command in your terminal:
+
 	streamlit run app.py
 	
 Once the Streamlit app is running, open your web browser and go to the provided URL to start using the interactive visualization features.
