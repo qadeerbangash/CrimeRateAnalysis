@@ -50,6 +50,11 @@ You can install the required Python packages using `pip`. For more detailed info
 
    ```bash
    git clone https://github.com/qadeerbangash/CrimeRateAnalysis.git
+
+- Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+
    
 ## Usage
 To run the application, execute the following command in your terminal:
