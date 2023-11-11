@@ -53,12 +53,12 @@ You can install the required Python packages using `pip`. For more detailed info
    
 ## Usage
 To run the application, execute the following command in your terminal:
-   ```bash
-   streamlit run app.py
+	streamlit run app.py
 	
 Once the Streamlit app is running, open your web browser and go to the provided URL to start using the interactive visualization features.
 
-## Screenshots
+## Screenshots#
+
 ![Screenshot from 2023-11-11 19-37-29](https://github.com/qadeerbangash/CrimeRateAnalysis/assets/64665560/55122794-8c8a-4e4d-a463-0842a1f521d1)
 ![Screenshot from 2023-11-11 19-37-55](https://github.com/qadeerbangash/CrimeRateAnalysis/assets/64665560/ea08abb5-9075-4cac-9f43-5d369a11d768)
 ![Screenshot from 2023-11-11 19-38-16](https://github.com/qadeerbangash/CrimeRateAnalysis/assets/64665560/5560b720-1e44-4122-848a-b5369a386d11)
